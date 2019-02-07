@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.8.aar/9e83720e18c07157dc7c65245880d2cf/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/d77e555dac8685d0e22135abdf3098dc/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.8.aar/c0834ea13e501aeac9773320b671ca5f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ce189fdee8a30575870c540a224954ef/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2a1717c56e90f8128c20b219452d80c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b500bcf948882e8422b086eaffa3041d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/90b9b1a4275beed88ef534be07c7fd01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/70c85771c76fb24a4f34811f1444e915/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8439a79f72e3ab370fadabbeb4f3edf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b76c3769250e52aebcf7f62af7a485be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9a2f1ad0b357912d06c73aab092d7ea5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f2bac6685d7ee031a88f6c13b4977201/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b0729cffc5d7fb1c93b3aafcb9dad41d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bb7555499b4195de6f37d604e63a7ed2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/242f14c5f08a7d7c613cf148605b69ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2dfb3b1346a4aa2aac0698d493999c7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/55b2e484eb725d19e3d271218dd12e73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ea6d161a6347a5fade7b4793c909c7dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/32e9c8821844a2828387a2ebf0cf8baa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d5b070916eee558d71ca69aa822dcbac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6487dc9839a77526fc28ba0cbb9f4cc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/295151c09ccec2fa02e3644330666e7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c15ffb128afb529f0e9434b381ac767b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e4fb21cc88b4c00f429bcc194730f952/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/02636d3facd7a9f57be66cdc254e3bab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/be5138fd01821adcdb48ef93d24edbeb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/37dbabbc5cc2688468703cdfa4e2c616/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dd2237fafbb17347a0d95cf13a07a863/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c9a662824151b57f49464cb338110ea7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17ca2c7c219afb7c788ce8f1e696066d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e59febc43e9978a911cece6b119e5b19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dcdda9fb7d34c90ed973c6dec3962837/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8e5ec5184ae46f26808f10b3b6fb5a14/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b9f4574b74a1c4aa49868c4c07ec0a70/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b90dcd99b62f983935ac795bdaa7193f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:3:11-42
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:7:5-36:19
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.8.aar/9e83720e18c07157dc7c65245880d2cf/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.8.aar/9e83720e18c07157dc7c65245880d2cf/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/d77e555dac8685d0e22135abdf3098dc/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/d77e555dac8685d0e22135abdf3098dc/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ce189fdee8a30575870c540a224954ef/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ce189fdee8a30575870c540a224954ef/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c15ffb128afb529f0e9434b381ac767b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c15ffb128afb529f0e9434b381ac767b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e4fb21cc88b4c00f429bcc194730f952/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e4fb21cc88b4c00f429bcc194730f952/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c15ffb128afb529f0e9434b381ac767b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:15:13-39
+	android:label
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:13:13-45
+	android:roundIcon
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:14:13-58
+	android:icon
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:12:13-47
+	android:allowBackup
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:11:13-39
+	android:theme
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:16:13-44
+	android:usesCleartextTraffic
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:9:13-48
+activity#com.luis.pruebamaster.ItemListActivity
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:19:17-49
+	android:theme
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:20:17-60
+	android:name
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:18:17-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.luis.pruebamaster.ItemDetailActivity
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:parentActivityName
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:30:17-63
+	android:label
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:29:17-58
+	android:theme
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:31:17-60
+	android:name
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:28:17-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:32:13-34:77
+	android:value
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:34:21-75
+	android:name
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml:33:21-67
+uses-sdk
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.8.aar/9e83720e18c07157dc7c65245880d2cf/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.8.aar/9e83720e18c07157dc7c65245880d2cf/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/d77e555dac8685d0e22135abdf3098dc/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/d77e555dac8685d0e22135abdf3098dc/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.8.aar/c0834ea13e501aeac9773320b671ca5f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.8.aar/c0834ea13e501aeac9773320b671ca5f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ce189fdee8a30575870c540a224954ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ce189fdee8a30575870c540a224954ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2a1717c56e90f8128c20b219452d80c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2a1717c56e90f8128c20b219452d80c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b500bcf948882e8422b086eaffa3041d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b500bcf948882e8422b086eaffa3041d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/90b9b1a4275beed88ef534be07c7fd01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/90b9b1a4275beed88ef534be07c7fd01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/70c85771c76fb24a4f34811f1444e915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/70c85771c76fb24a4f34811f1444e915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8439a79f72e3ab370fadabbeb4f3edf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8439a79f72e3ab370fadabbeb4f3edf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b76c3769250e52aebcf7f62af7a485be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b76c3769250e52aebcf7f62af7a485be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9a2f1ad0b357912d06c73aab092d7ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9a2f1ad0b357912d06c73aab092d7ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f2bac6685d7ee031a88f6c13b4977201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f2bac6685d7ee031a88f6c13b4977201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b0729cffc5d7fb1c93b3aafcb9dad41d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b0729cffc5d7fb1c93b3aafcb9dad41d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bb7555499b4195de6f37d604e63a7ed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bb7555499b4195de6f37d604e63a7ed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/242f14c5f08a7d7c613cf148605b69ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/242f14c5f08a7d7c613cf148605b69ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2dfb3b1346a4aa2aac0698d493999c7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2dfb3b1346a4aa2aac0698d493999c7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/55b2e484eb725d19e3d271218dd12e73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/55b2e484eb725d19e3d271218dd12e73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ea6d161a6347a5fade7b4793c909c7dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ea6d161a6347a5fade7b4793c909c7dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/32e9c8821844a2828387a2ebf0cf8baa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/32e9c8821844a2828387a2ebf0cf8baa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d5b070916eee558d71ca69aa822dcbac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d5b070916eee558d71ca69aa822dcbac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6487dc9839a77526fc28ba0cbb9f4cc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6487dc9839a77526fc28ba0cbb9f4cc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/295151c09ccec2fa02e3644330666e7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/295151c09ccec2fa02e3644330666e7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c15ffb128afb529f0e9434b381ac767b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c15ffb128afb529f0e9434b381ac767b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e4fb21cc88b4c00f429bcc194730f952/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e4fb21cc88b4c00f429bcc194730f952/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/02636d3facd7a9f57be66cdc254e3bab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/02636d3facd7a9f57be66cdc254e3bab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/be5138fd01821adcdb48ef93d24edbeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/be5138fd01821adcdb48ef93d24edbeb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/37dbabbc5cc2688468703cdfa4e2c616/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/37dbabbc5cc2688468703cdfa4e2c616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dd2237fafbb17347a0d95cf13a07a863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dd2237fafbb17347a0d95cf13a07a863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c9a662824151b57f49464cb338110ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c9a662824151b57f49464cb338110ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17ca2c7c219afb7c788ce8f1e696066d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17ca2c7c219afb7c788ce8f1e696066d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e59febc43e9978a911cece6b119e5b19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e59febc43e9978a911cece6b119e5b19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dcdda9fb7d34c90ed973c6dec3962837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dcdda9fb7d34c90ed973c6dec3962837/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8e5ec5184ae46f26808f10b3b6fb5a14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8e5ec5184ae46f26808f10b3b6fb5a14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b9f4574b74a1c4aa49868c4c07ec0a70/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b9f4574b74a1c4aa49868c4c07ec0a70/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b90dcd99b62f983935ac795bdaa7193f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/local/DANIELCASTELAO/lrodriguezbarroncas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b90dcd99b62f983935ac795bdaa7193f/AndroidManifest.xml:20:5-44
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+		ADDED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml
+		INJECTED from /home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/src/main/AndroidManifest.xml

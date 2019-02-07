@@ -1,0 +1,7 @@
+#Thu Feb 07 12:58:22 CET 2019
+base.0=/home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/local/DANIELCASTELAO/lrodriguezbarroncas/Escritorio/EjercicioFragmentMaster/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
